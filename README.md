@@ -4,19 +4,26 @@ This repository contains the FloodCastBench dataset, organized to support both l
 
 ## Dataset Structure
 
-FloodCastBench Dataset
+FloodCastBench
 - Low-Fidelity Flood Forecasting
-  - Pakistan_2022 (480 m resolution)
-  - Mozambique_2019 (480 m resolution)
+  - 480 m
+    - Pakistan flood
+    - Mozambique flood
 - High-Fidelity Flood Forecasting
-  - Australia_2022 (30 m resolution)
-  - Australia_2022 (60 m resolution)
-  - UK_2015 (30 m resolution)
-  - UK_2015 (60 m resolution)
+  - 30 m
+    - Australia flood
+    - UK flood
+  - 60 m
+    - Australia flood
+    - UK flood
 - Relevant Data
   - DEM
-  - Land_Use_Land_Cover
-  - Rainfall_Data
-  - Georeferenced_Files
-  - Initial_Condition_Files
+  - Land use and land cover
+  - Rainfall
+    - Pakistan flood
+    - Mozambique flood
+    - Australia flood
+    - UK flood
+  - Georeferenced files
+  - Initial condition
 
