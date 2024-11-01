@@ -25,5 +25,5 @@ FloodCastBench
     - Australia flood
     - UK flood
   - Georeferenced files
-  - Initial condition
+  - Initial conditions
 
