@@ -5,9 +5,9 @@ FloodCastBench provides comprehensive low-fidelity and high-fidelity flood forec
 
 ## Data Generation
 To use the model, execute the following steps:
-1. **Prepare the necessary input files and parameters, including topography data (DEM), rainfall data, land use and land cover data (Manning coefficients), as well as initial and boundary conditions.**
-2. **Please change the 'paths of different input data and results' to your local paths.**
-3. **Run Data_Generation_Code/main.py**
+1. Prepare the necessary input files and parameters, including topography data (DEM), rainfall data, land use and land cover data (Manning coefficients), as well as initial and boundary conditions.
+2. Please change the 'paths of different input data and results' to your local paths.
+3. Run Data_Generation_Code/main.py
 
 ## Dataset Structure
 
