@@ -1,4 +1,4 @@
-![FloodCastBench](https://github.com/HydroPML/FloodCastBench/blob/main/Figures/figures.png)
+![FloodCastBench](https://github.com/HydroPML/FloodCastBench/blob/main/Figures/figures1.png)
 # FloodCastBench Dataset
 
 This repository contains the FloodCastBench dataset, organized to support both low-fidelity and high-fidelity flood forecasting analyses across multiple flood events. The dataset is structured into three main folders to enable various flood prediction and GIS-based analysis tasks.
